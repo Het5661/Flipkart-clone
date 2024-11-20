@@ -1,0 +1,68 @@
+#searchbar{
+    font-size: large;
+    height: 50px;
+    width: 900px;
+    margin: 100px;
+    border-radius: 8px;
+    border: none;
+    padding-left: 10px;
+    background-color: rgb(199, 228, 231);
+}
+.logo{
+    height: 20px;
+    width: 100px;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    object-fit: fill;
+}
+.titlebar{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+#login{
+font-size: large;
+height: 50px;
+width: 75px;
+margin: 100px;
+padding-left: 10px;
+border: none;
+}
+#nav{
+    font-size: large;
+    height: 30px;
+    width: 100px;
+    padding-left: 30px;
+    border: none;
+}
+.electronics{
+  
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    width: 100px;
+    margin: 50px;
+}
+.content
+{
+    height: 2   00px;
+    width: 100%;
+    display: flex;
+
+}
+.grocery
+{
+   
+    height: 150px;
+    margin-top: 50px;
+}
+#ele{
+    border: none;
+    padding-left: 10px;
+}
+#gro{
+    border: none;
+    padding-left: 10px;
+}
